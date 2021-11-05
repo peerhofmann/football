@@ -1,8 +1,9 @@
-
+# 2. Fix Docker
 # Fix einfügen 
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
+ARG DEVICE
 
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update && apt-get --no-install-recommends install -yq git cmake build-essential \
