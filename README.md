@@ -4,7 +4,7 @@
 Eine weitere Zeile 
 Eine weitere Zeile 
 
-This repository contains an RL environment based on open-source game Gameplay
+This repository contains an RL environment based on open-source game Gameplay, thank you
 Football. <br> It was created by the Google Brain team for research purposes.
 
 Useful links:
